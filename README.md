@@ -43,4 +43,6 @@ You can start contributing by adding the following:
 
 | Video Title    | Link  | Summary (2 lines max)  |
 |:-----------|:------|:-------------|
-|  |     |         |  
+| Beginner's Guide to FastAPI & OpenAI ChatGPT API Integration | [Link](https://www.youtube.com/watch?v=KVdP4SpWcc4) | The speaker talks about the power of Python APIs with our step-by-step guide to FastAPI and OpenAI's ChatGPT. FastAPI is a high-performance web framework ideal for developing APIs, while ChatGPT adds artificial intelligence to the mix.|
+| Unlocking Genesys Cloud & API Integration: Making the Most of the Genesys Cloud CX Developer Center |  [Link](https://www.youtube.com/watch?v=XQsgX0rcWSE)   | The speaker has highlighted the Genesys Cloud CX Developer Center as a hub for developers offering comprehensive Platform API documentation, tools to interact with APIs, a supportive community forum, and more. Whether you're a newcomer or a seasoned developer, this resource is an asset for maximizing your Genesys Cloud CX integration efforts.    |  
+| 
